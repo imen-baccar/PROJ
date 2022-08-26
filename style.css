@@ -404,3 +404,10 @@ header nav ul li a{
     @media screen and (max-width: 1000px) {
         /* write your CSS in this code block */
       }
+
+
+      .product-list-panier{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
